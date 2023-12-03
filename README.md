@@ -29,8 +29,7 @@ Explore our collection of cutting-edge electronics, including laptops, tablets, 
 2. **Tablet Model 2**
    - Price: $120.99
    - Description: [Add a brief description here]
-   - ![Tablet Image]([https://consumer.huawei.com/content/dam/huawei-cbg-site/cee-nordics/common/mkt/plp/laptops-new/img-0817/matebook-x-series-1.jpg](https://static.independent.co.uk/2023/04/13/16/tablet%20indybest%20copy.jpg)
- 
+   - ![Tablet Image](https://consumer.huawei.com/content/dam/huawei-cbg-site/cee-nordics/common/mkt/plp/laptops-new/img-0817/matebook-x-series-1.jpg](https://abpcdn.pstatic.gr/P/bpimg130/blog1910_SX400/1579866763/image.webp))
 
 ### Computers
 
