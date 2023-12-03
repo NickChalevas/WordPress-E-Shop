@@ -9,7 +9,7 @@ Explore our collection of cutting-edge electronics, including laptops, tablets, 
 1. **Laptop Model 1**
    - Price: $599.98
    - Description: [High End Laptop]
-   - ![Laptop Image](https://cdn.thewirecutter.com/wp-content/media/2023/06/laptops-2048px-5607.jpg?auto=webp&quality=75&crop=1.91:1&width=1200))
+   - ![Laptop Image](https://cdn.thewirecutter.com/wp-content/media/2023/06/laptops-2048px-5607.jpg?auto=webp&quality=75&crop=1.91:1&width=1200)
 
 
 2. **Laptop Model 2**
