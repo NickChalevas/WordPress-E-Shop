@@ -1,9 +1,9 @@
-# WordPress ecommerce Eshop
+### WordPress ecommerce Eshop
 ------------------------------------------------------------------------
-## This  project was made with custom PHP plugins  and Elementor for UI. The below pictures are for demonstration only
+This  project was made with custom PHP plugins  and Elementor for UI. The below pictures are for demonstration only
 
 ------------------------------------------------------------------------
-## Welcome to our Electronics eShop!
+### Welcome to our Electronics eShop!
 
 Explore our collection of cutting-edge electronics, including laptops, tablets, and computers.
 
