@@ -1,5 +1,8 @@
 # Electronics eShop
 
+# The  project was made Custom PHP and Elementor for UI. The below pictures are for demonstration only
+
+
 ## Welcome to our Electronics eShop!
 
 Explore our collection of cutting-edge electronics, including laptops, tablets, and computers.
@@ -44,7 +47,6 @@ Explore our collection of cutting-edge electronics, including laptops, tablets, 
    - Description: [A complete package computing setup for bussiness and Gamers]
    - ![Computer Image](https://i.pcmag.com/imagery/roundups/03yEDeTzPo1WxOu5QGWq9Zq-19..v1679326750.jpg))
  
-
 ## About Us
 
 Welcome to Electronics eShop, your one-stop destination for high-quality electronics. We strive to provide the latest and most advanced gadgets to meet your technological needs.
