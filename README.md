@@ -14,7 +14,7 @@ Explore our collection of cutting-edge electronics, including laptops, tablets, 
 -Computers
 
 -----------------------------------------------------------------------
-###-How to Install:
+###How to Install:
 Jusy copy the contents or download with git to the htdocs folder of xampp/A typical xampp wordpress instalation
 If are any question contact us
 ----------------------------------------------------------------------
