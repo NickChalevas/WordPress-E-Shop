@@ -7,17 +7,22 @@ This  project was made with custom PHP plugins  and Elementor for UI. The below 
 
 Explore our collection of cutting-edge electronics, including laptops, tablets, and computers.
 
-### -Laptops
+-Laptops
 
-### -Tablets
+-Tablets
 
-### -Computers
+-Computers
 
 -----------------------------------------------------------------------
- 
+###-How to Install:
+Jusy copy the contents or download with git to the htdocs folder of xampp/A typical xampp wordpress instalation
+If are any question contact us
+----------------------------------------------------------------------
 ## About Us/Contact Us
 
 We are a buch of independent Software Developers working With PHP/Wordpress custom Plugins and Themes
+
+
 
 ## Contact Information
 
