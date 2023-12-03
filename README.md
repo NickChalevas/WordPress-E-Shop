@@ -7,27 +7,27 @@ Explore our collection of cutting-edge electronics, including laptops, tablets, 
 ### Laptops
 
 1. **Laptop Model 1**
-   - Price: $XXX.XX
+   - Price: $599.98
    - Description: [Add a brief description here]
    - ![Laptop Image](link_to_image1.jpg)
    - [Add to Cart]
 
 2. **Laptop Model 2**
-   - Price: $XXX.XX
-   - Description: [Add a brief description here]
+   - Price: $499.99
+   - Description: [A Medium Performance laptop for daily usage]
    - ![Laptop Image](link_to_image2.jpg)
    - [Add to Cart]
 
 ### Tablets
 
 1. **Tablet Model 1**
-   - Price: $XXX.XX
-   - Description: [Add a brief description here]
+   - Price: $399.20
+   - Description: [High Quality/Performance tablet for organizing files/Photos or profesional Use]
    - ![Tablet Image](link_to_image3.jpg)
    - [Add to Cart]
 
 2. **Tablet Model 2**
-   - Price: $XXX.XX
+   - Price: $120.99
    - Description: [Add a brief description here]
    - ![Tablet Image](link_to_image4.jpg)
    - [Add to Cart]
@@ -35,14 +35,14 @@ Explore our collection of cutting-edge electronics, including laptops, tablets, 
 ### Computers
 
 1. **Computer Model 1**
-   - Price: $XXX.XX
-   - Description: [Add a brief description here]
+   - Price: $1000.91
+   - Description: [High Performance and quality computer for gamers and students]
    - ![Computer Image](link_to_image5.jpg)
    - [Add to Cart]
 
 2. **Computer Model 2**
-   - Price: $XXX.XX
-   - Description: [Add a brief description here]
+   - Price: $500.5
+   - Description: [A complete package computing setup for bussiness]
    - ![Computer Image](link_to_image6.jpg)
    - [Add to Cart]
 
@@ -55,7 +55,7 @@ Welcome to Electronics eShop, your one-stop destination for high-quality electro
 For any inquiries, please contact our Creator/Admin Nick Chalevas:
 
 - **Name:** Nick Chalevas
-- **Email:** nick.chalevas@example.com
+- **Email:** nick.halevas@gmail.com
 - **Phone:** +1-XXX-XXX-XXXX
 
 Feel free to explore our collection and make your purchase securely through our online platform. Thank you for choosing Electronics eShop!
