@@ -36,13 +36,13 @@ Explore our collection of cutting-edge electronics, including laptops, tablets, 
 1. **Computer Model 1**
    - Price: $1000.91
    - Description: [High Performance and quality computer for gamers and students]
-   - ![Computer Image]((https://m.media-amazon.com/images/I/61-iGF3ittL._AC_UF1000,1000_QL80_.jpg))
+   - ![Computer Image](([https://m.media-amazon.com/images/I/61-iGF3ittL._AC_UF1000,1000_QL80_.jpg](https://vi.ie/wp-content/uploads/2021/01/buying-your-first-desktop-computer.jpg)))
 
 
 2. **Computer Model 2**
    - Price: $1500.5
    - Description: [A complete package computing setup for bussiness and Gamers]
-   - ![Computer Image](https://www.e-computers.co.uk/wp-content/uploads/2022/01/seyed-sina-fazeli-XP9JF6jyRGc-unsplash.jpg)
+   - ![Computer Image]([https://www.e-computers.co.uk/wp-content/uploads/2022/01/seyed-sina-fazeli-XP9JF6jyRGc-unsplash.jpg](https://i.pcmag.com/imagery/roundups/03yEDeTzPo1WxOu5QGWq9Zq-19..v1679326750.jpg))
  
 
 ## About Us
