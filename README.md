@@ -23,26 +23,26 @@ Explore our collection of cutting-edge electronics, including laptops, tablets, 
 1. **Tablet Model 1**
    - Price: $399.20
    - Description: [High Quality/Performance tablet for organizing files/Photos or profesional Use]
-   - ![Tablet Image](https://media.product.which.co.uk/prod/images/original/48b89b0efed9-best-product-deals-laptops.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuY-Vme9ebnsO-f-gwr_ik8P8ooyCgZlQbcQ&usqp=CAU))
+   - ![Tablet Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuY-Vme9ebnsO-f-gwr_ik8P8ooyCgZlQbcQ&usqp=CAU))
   
 
 2. **Tablet Model 2**
    - Price: $120.99
    - Description: [Add a brief description here]
-   - ![Tablet Image](https://consumer.huawei.com/content/dam/huawei-cbg-site/cee-nordics/common/mkt/plp/laptops-new/img-0817/matebook-x-series-1.jpg](https://abpcdn.pstatic.gr/P/bpimg130/blog1910_SX400/1579866763/image.webp))
+   - ![Tablet Image](https://consumer.huawei.com/content/dam/huawei-cbg-site/cee-nordics/common/mkt/plp/laptops-new/img-0817/matebook-x-series-1.jpg]))
 
 ### Computers
 
 1. **Computer Model 1**
    - Price: $1000.91
    - Description: [High Performance and quality computer for gamers and students]
-   - ![Computer Image](([https://m.media-amazon.com/images/I/61-iGF3ittL._AC_UF1000,1000_QL80_.jpg](https://vi.ie/wp-content/uploads/2021/01/buying-your-first-desktop-computer.jpg)))
+   - ![Computer Image](https://vi.ie/wp-content/uploads/2021/01/buying-your-first-desktop-computer.jpg)))
 
 
 2. **Computer Model 2**
    - Price: $1500.5
    - Description: [A complete package computing setup for bussiness and Gamers]
-   - ![Computer Image]([https://www.e-computers.co.uk/wp-content/uploads/2022/01/seyed-sina-fazeli-XP9JF6jyRGc-unsplash.jpg](https://i.pcmag.com/imagery/roundups/03yEDeTzPo1WxOu5QGWq9Zq-19..v1679326750.jpg))
+   - ![Computer Image](https://i.pcmag.com/imagery/roundups/03yEDeTzPo1WxOu5QGWq9Zq-19..v1679326750.jpg))
  
 
 ## About Us
