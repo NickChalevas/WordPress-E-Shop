@@ -7,11 +7,11 @@ This  project was made with custom PHP plugins  and Elementor for UI. The below 
 
 Explore our collection of cutting-edge electronics, including laptops, tablets, and computers.
 
-# -Laptops
+### -Laptops
 
-# -Tablets
+### -Tablets
 
-# -Computers
+### -Computers
 
 -----------------------------------------------------------------------
  
