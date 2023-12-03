@@ -1,6 +1,6 @@
 # Electronics eShop
 
-# The  project was made Custom PHP and Elementor for UI. The below pictures are for demonstration only
+## The  project was made Custom PHP and Elementor for UI. The below pictures are for demonstration only
 
 
 ## Welcome to our Electronics eShop!
