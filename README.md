@@ -5,7 +5,7 @@ This  project was made with custom PHP plugins  and Elementor for UI. The below 
 ------------------------------------------------------------------------
 ### Welcome to our Electronics Wordpress eShop!
 
-# Features
+## Features
 
 Explore our collection of cutting-edge electronics, including laptops, tablets, and computers.
 
